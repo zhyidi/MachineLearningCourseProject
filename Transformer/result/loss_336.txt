@@ -1,0 +1,421 @@
+Epoch 1/200: 100%|██████████| 153/153 [00:21<00:00,  6.98it/s, loss (batch)=6.86]
+Epoch 1/200: 100%|██████████| 44/44 [42:37<00:00, 58.13s/it, val_loss (batch)=53.7]
+Epoch 1, average_train_loss: 0.27989046152670827
+Epoch 1, average_train_loss: 0.27989046152670827, average_val_loss: 0.8594471144582977
+Saved model state dict: ./model/transformer_1.pth
+Epoch 2/200: 100%|██████████| 153/153 [02:11<00:00,  1.16it/s, loss (batch)=2.38]
+Epoch 2, average_train_loss: 0.05602246011623441
+Saved model state dict: ./model/transformer_2.pth
+Epoch 3/200: 100%|██████████| 153/153 [02:13<00:00,  1.15it/s, loss (batch)=4.07]
+Epoch 3, average_train_loss: 0.03679349891443021
+Saved model state dict: ./model/transformer_3.pth
+Epoch 4/200: 100%|██████████| 153/153 [02:13<00:00,  1.15it/s, loss (batch)=1.67]
+Epoch 4, average_train_loss: 0.033312636057470806
+Saved model state dict: ./model/transformer_4.pth
+Epoch 5/200: 100%|██████████| 153/153 [02:12<00:00,  1.15it/s, loss (batch)=1.37]
+Epoch 5, average_train_loss: 0.025801812245940615
+Saved model state dict: ./model/transformer_5.pth
+Epoch 6/200: 100%|██████████| 153/153 [01:57<00:00,  1.30it/s, loss (batch)=1.53]
+Epoch 6, average_train_loss: 0.0233201484545622
+Saved model state dict: ./model/transformer_6.pth
+Epoch 7/200: 100%|██████████| 153/153 [01:55<00:00,  1.33it/s, loss (batch)=1.44]
+Epoch 7, average_train_loss: 0.021496563598356683
+Saved model state dict: ./model/transformer_7.pth
+Epoch 8/200: 100%|██████████| 153/153 [02:01<00:00,  1.26it/s, loss (batch)=1.45]
+Epoch 8, average_train_loss: 0.019965566712256504
+Saved model state dict: ./model/transformer_8.pth
+Epoch 9/200: 100%|██████████| 153/153 [02:02<00:00,  1.25it/s, loss (batch)=1.05]
+Epoch 9, average_train_loss: 0.01805513026511763
+Saved model state dict: ./model/transformer_9.pth
+Epoch 10/200: 100%|██████████| 153/153 [02:12<00:00,  1.16it/s, loss (batch)=1.11] 
+Epoch 10, average_train_loss: 0.017029462569014157
+Saved model state dict: ./model/transformer_10.pth
+Epoch 11/200: 100%|██████████| 153/153 [02:08<00:00,  1.19it/s, loss (batch)=0.885]
+Epoch 11/200: 100%|██████████| 44/44 [44:38<00:00, 60.87s/it, val_loss (batch)=205]
+Epoch 11, average_train_loss: 0.015851824454960924
+Epoch 11, average_train_loss: 0.015851824454960924, average_val_loss: 3.1336831731216535
+Saved model state dict: ./model/transformer_11.pth
+Epoch 12/200: 100%|██████████| 153/153 [02:16<00:00,  1.12it/s, loss (batch)=0.863]
+Epoch 12, average_train_loss: 0.014349109165362086
+Saved model state dict: ./model/transformer_12.pth
+Epoch 13/200: 100%|██████████| 153/153 [02:15<00:00,  1.13it/s, loss (batch)=0.817]
+Epoch 13, average_train_loss: 0.01379476279986196
+Saved model state dict: ./model/transformer_13.pth
+Epoch 14/200: 100%|██████████| 153/153 [02:16<00:00,  1.12it/s, loss (batch)=0.817]
+Epoch 14, average_train_loss: 0.012693609248981216
+Saved model state dict: ./model/transformer_14.pth
+Epoch 15/200: 100%|██████████| 153/153 [02:16<00:00,  1.12it/s, loss (batch)=0.82] 
+Epoch 15, average_train_loss: 0.011720054873098028
+Saved model state dict: ./model/transformer_15.pth
+Epoch 16/200: 100%|██████████| 153/153 [02:14<00:00,  1.13it/s, loss (batch)=0.665]
+Epoch 16, average_train_loss: 0.010987583521550546
+Saved model state dict: ./model/transformer_16.pth
+Epoch 17/200: 100%|██████████| 153/153 [02:17<00:00,  1.12it/s, loss (batch)=0.599]
+Epoch 17, average_train_loss: 0.010162199473480982
+Saved model state dict: ./model/transformer_17.pth
+Epoch 18/200: 100%|██████████| 153/153 [02:16<00:00,  1.12it/s, loss (batch)=0.637]
+Epoch 18, average_train_loss: 0.009477110024110853
+Saved model state dict: ./model/transformer_18.pth
+Epoch 19/200: 100%|██████████| 153/153 [02:13<00:00,  1.14it/s, loss (batch)=0.583]
+Epoch 19, average_train_loss: 0.008973355204790187
+Saved model state dict: ./model/transformer_19.pth
+Epoch 20/200: 100%|██████████| 153/153 [02:16<00:00,  1.12it/s, loss (batch)=0.554]
+Epoch 20, average_train_loss: 0.008574503853379333
+Saved model state dict: ./model/transformer_20.pth
+Epoch 21/200: 100%|██████████| 153/153 [02:11<00:00,  1.16it/s, loss (batch)=0.484]
+Epoch 21/200: 100%|██████████| 44/44 [47:37<00:00, 64.94s/it, val_loss (batch)=140]
+Epoch 21, average_train_loss: 0.008140822447658914
+Epoch 21, average_train_loss: 0.008140822447658914, average_val_loss: 2.201235958659433
+Saved model state dict: ./model/transformer_21.pth
+Epoch 22/200: 100%|██████████| 153/153 [02:16<00:00,  1.12it/s, loss (batch)=0.517]
+Epoch 22, average_train_loss: 0.007545038437675131
+Saved model state dict: ./model/transformer_22.pth
+Epoch 23/200: 100%|██████████| 153/153 [02:15<00:00,  1.13it/s, loss (batch)=0.427]
+Epoch 23, average_train_loss: 0.007281062394219081
+Saved model state dict: ./model/transformer_23.pth
+Epoch 24/200: 100%|██████████| 153/153 [02:15<00:00,  1.13it/s, loss (batch)=0.414]
+Epoch 24, average_train_loss: 0.00670527866154577
+Saved model state dict: ./model/transformer_24.pth
+Epoch 25/200: 100%|██████████| 153/153 [02:16<00:00,  1.12it/s, loss (batch)=0.387]
+Epoch 25, average_train_loss: 0.006532307131111762
+Saved model state dict: ./model/transformer_25.pth
+Epoch 26/200: 100%|██████████| 153/153 [02:08<00:00,  1.19it/s, loss (batch)=0.375]
+Epoch 26, average_train_loss: 0.005946797189165534
+Saved model state dict: ./model/transformer_26.pth
+Epoch 27/200: 100%|██████████| 153/153 [02:15<00:00,  1.13it/s, loss (batch)=0.347]
+Epoch 27, average_train_loss: 0.005717043959037766
+Saved model state dict: ./model/transformer_27.pth
+Epoch 28/200: 100%|██████████| 153/153 [02:15<00:00,  1.13it/s, loss (batch)=0.389]
+Epoch 28, average_train_loss: 0.005727177876025033
+Saved model state dict: ./model/transformer_28.pth
+Epoch 29/200: 100%|██████████| 153/153 [02:16<00:00,  1.12it/s, loss (batch)=0.326]
+Epoch 29, average_train_loss: 0.005236416153229644
+Saved model state dict: ./model/transformer_29.pth
+Epoch 30/200: 100%|██████████| 153/153 [02:14<00:00,  1.14it/s, loss (batch)=0.306]
+Epoch 30, average_train_loss: 0.005077590865965038
+Saved model state dict: ./model/transformer_30.pth
+Epoch 31/200: 100%|██████████| 153/153 [02:11<00:00,  1.17it/s, loss (batch)=0.311]
+Epoch 31/200: 100%|██████████| 44/44 [43:18<00:00, 59.06s/it, val_loss (batch)=85.9]
+Epoch 31, average_train_loss: 0.00486702792130905
+Epoch 31, average_train_loss: 0.00486702792130905, average_val_loss: 1.348642958808191
+Saved model state dict: ./model/transformer_31.pth
+Epoch 32/200: 100%|██████████| 153/153 [02:16<00:00,  1.12it/s, loss (batch)=0.28] 
+Epoch 32, average_train_loss: 0.004658051358448095
+Saved model state dict: ./model/transformer_32.pth
+Epoch 33/200: 100%|██████████| 153/153 [02:04<00:00,  1.23it/s, loss (batch)=0.281]
+Epoch 33, average_train_loss: 0.004585966359690257
+Saved model state dict: ./model/transformer_33.pth
+Epoch 34/200: 100%|██████████| 153/153 [02:07<00:00,  1.20it/s, loss (batch)=0.256]
+Epoch 34, average_train_loss: 0.004203311548241807
+Saved model state dict: ./model/transformer_34.pth
+Epoch 35/200: 100%|██████████| 153/153 [02:09<00:00,  1.19it/s, loss (batch)=0.257]
+Epoch 35, average_train_loss: 0.004132415932107954
+Saved model state dict: ./model/transformer_35.pth
+Epoch 36/200: 100%|██████████| 153/153 [02:13<00:00,  1.15it/s, loss (batch)=0.248]
+Epoch 36, average_train_loss: 0.0041789190847319625
+Saved model state dict: ./model/transformer_36.pth
+Epoch 37/200: 100%|██████████| 153/153 [02:03<00:00,  1.24it/s, loss (batch)=0.233]
+Epoch 37, average_train_loss: 0.003724616575845606
+Saved model state dict: ./model/transformer_37.pth
+Epoch 38/200: 100%|██████████| 153/153 [02:13<00:00,  1.15it/s, loss (batch)=0.22] 
+Epoch 38, average_train_loss: 0.0036717435142621224
+Saved model state dict: ./model/transformer_38.pth
+Epoch 39/200: 100%|██████████| 153/153 [02:13<00:00,  1.15it/s, loss (batch)=0.218]
+Epoch 39, average_train_loss: 0.003549615594400071
+Saved model state dict: ./model/transformer_39.pth
+Epoch 40/200: 100%|██████████| 153/153 [02:07<00:00,  1.20it/s, loss (batch)=4.81]
+Epoch 40, average_train_loss: 0.10118671534294463
+Saved model state dict: ./model/transformer_40.pth
+Epoch 41/200: 100%|██████████| 153/153 [02:09<00:00,  1.18it/s, loss (batch)=2.92]
+Epoch 41/200: 100%|██████████| 44/44 [42:40<00:00, 58.20s/it, val_loss (batch)=71.9]
+Epoch 41, average_train_loss: 0.053729772616500394
+Epoch 41, average_train_loss: 0.053729772616500394, average_val_loss: 1.1573684155368906
+Saved model state dict: ./model/transformer_41.pth
+Epoch 42/200: 100%|██████████| 153/153 [02:12<00:00,  1.15it/s, loss (batch)=1.99]
+Epoch 42, average_train_loss: 0.0383072852381484
+Saved model state dict: ./model/transformer_42.pth
+Epoch 43/200: 100%|██████████| 153/153 [02:12<00:00,  1.16it/s, loss (batch)=1.79]
+Epoch 43, average_train_loss: 0.030505488284732797
+Saved model state dict: ./model/transformer_43.pth
+Epoch 44/200: 100%|██████████| 153/153 [02:09<00:00,  1.18it/s, loss (batch)=1.59]
+Epoch 44, average_train_loss: 0.027043955870389377
+Saved model state dict: ./model/transformer_44.pth
+Epoch 45/200: 100%|██████████| 153/153 [02:10<00:00,  1.17it/s, loss (batch)=1.58]
+Epoch 45, average_train_loss: 0.024587938249531656
+Saved model state dict: ./model/transformer_45.pth
+Epoch 46/200: 100%|██████████| 153/153 [02:06<00:00,  1.21it/s, loss (batch)=1.43]
+Epoch 46, average_train_loss: 0.022854212200382033
+Saved model state dict: ./model/transformer_46.pth
+Epoch 47/200: 100%|██████████| 153/153 [02:14<00:00,  1.14it/s, loss (batch)=1.27]
+Epoch 47, average_train_loss: 0.020895377074193765
+Saved model state dict: ./model/transformer_47.pth
+Epoch 48/200: 100%|██████████| 153/153 [02:12<00:00,  1.15it/s, loss (batch)=1.16]
+Epoch 48, average_train_loss: 0.019506462645815896
+Saved model state dict: ./model/transformer_48.pth
+Epoch 49/200: 100%|██████████| 153/153 [02:08<00:00,  1.19it/s, loss (batch)=1.1] 
+Epoch 49, average_train_loss: 0.018001542148896245
+Saved model state dict: ./model/transformer_49.pth
+Epoch 50/200: 100%|██████████| 153/153 [02:02<00:00,  1.25it/s, loss (batch)=0.998]
+Epoch 50, average_train_loss: 0.01687151412390551
+Saved model state dict: ./model/transformer_50.pth
+Epoch 51/200: 100%|██████████| 153/153 [02:07<00:00,  1.20it/s, loss (batch)=0.936]
+Epoch 51/200: 100%|██████████| 44/44 [42:35<00:00, 58.08s/it, val_loss (batch)=38.6]
+Epoch 51, average_train_loss: 0.015210687023354336
+Epoch 51, average_train_loss: 0.015210687023354336, average_val_loss: 0.6037079614123287
+Saved model state dict: ./model/transformer_51.pth
+Epoch 52/200: 100%|██████████| 153/153 [02:13<00:00,  1.15it/s, loss (batch)=0.903]
+Epoch 52, average_train_loss: 0.014577262899576063
+Saved model state dict: ./model/transformer_52.pth
+Epoch 53/200: 100%|██████████| 153/153 [02:03<00:00,  1.24it/s, loss (batch)=0.918]
+Epoch 53, average_train_loss: 0.014059573677027107
+Saved model state dict: ./model/transformer_53.pth
+Epoch 54/200: 100%|██████████| 153/153 [02:12<00:00,  1.16it/s, loss (batch)=0.829]
+Epoch 54, average_train_loss: 0.013549533355651658
+Saved model state dict: ./model/transformer_54.pth
+Epoch 55/200: 100%|██████████| 153/153 [02:12<00:00,  1.15it/s, loss (batch)=0.82] 
+Epoch 55, average_train_loss: 0.013039729338264602
+Saved model state dict: ./model/transformer_55.pth
+Epoch 56/200: 100%|██████████| 153/153 [02:03<00:00,  1.24it/s, loss (batch)=0.779]
+Epoch 56, average_train_loss: 0.012680434465237695
+Saved model state dict: ./model/transformer_56.pth
+Epoch 57/200: 100%|██████████| 153/153 [02:05<00:00,  1.22it/s, loss (batch)=0.789]
+Epoch 57, average_train_loss: 0.012228309468323073
+Saved model state dict: ./model/transformer_57.pth
+Epoch 58/200: 100%|██████████| 153/153 [01:55<00:00,  1.33it/s, loss (batch)=0.731]
+Epoch 58, average_train_loss: 0.011734935869506111
+Saved model state dict: ./model/transformer_58.pth
+Epoch 59/200: 100%|██████████| 153/153 [02:05<00:00,  1.22it/s, loss (batch)=0.73] 
+Epoch 59, average_train_loss: 0.011307480528778538
+Saved model state dict: ./model/transformer_59.pth
+Epoch 60/200: 100%|██████████| 153/153 [02:11<00:00,  1.17it/s, loss (batch)=0.731]
+Epoch 60, average_train_loss: 0.01095111043939999
+Saved model state dict: ./model/transformer_60.pth
+Epoch 61/200: 100%|██████████| 153/153 [02:12<00:00,  1.16it/s, loss (batch)=0.691]
+Epoch 61/200: 100%|██████████| 44/44 [42:14<00:00, 57.60s/it, val_loss (batch)=30.1]
+Epoch 61, average_train_loss: 0.01056240904417741
+Epoch 61, average_train_loss: 0.01056240904417741, average_val_loss: 0.4776155646060058
+Saved model state dict: ./model/transformer_61.pth
+Epoch 62/200: 100%|██████████| 153/153 [02:11<00:00,  1.16it/s, loss (batch)=0.669]
+Epoch 62, average_train_loss: 0.010272312244746402
+Saved model state dict: ./model/transformer_62.pth
+Epoch 63/200: 100%|██████████| 153/153 [02:11<00:00,  1.16it/s, loss (batch)=0.627]
+Epoch 63, average_train_loss: 0.009856587513716061
+Saved model state dict: ./model/transformer_63.pth
+Epoch 64/200: 100%|██████████| 153/153 [02:10<00:00,  1.18it/s, loss (batch)=0.591]
+Epoch 64, average_train_loss: 0.009537848991407303
+Saved model state dict: ./model/transformer_64.pth
+Epoch 65/200: 100%|██████████| 153/153 [02:14<00:00,  1.14it/s, loss (batch)=0.575]
+Epoch 65, average_train_loss: 0.009200577507500706
+Saved model state dict: ./model/transformer_65.pth
+Epoch 66/200: 100%|██████████| 153/153 [02:11<00:00,  1.16it/s, loss (batch)=0.574]
+Epoch 66, average_train_loss: 0.008906561061290496
+Saved model state dict: ./model/transformer_66.pth
+Epoch 67/200: 100%|██████████| 153/153 [02:12<00:00,  1.15it/s, loss (batch)=0.542]
+Epoch 67, average_train_loss: 0.00862358136479809
+Saved model state dict: ./model/transformer_67.pth
+Epoch 68/200: 100%|██████████| 153/153 [02:11<00:00,  1.16it/s, loss (batch)=0.522]
+Epoch 68, average_train_loss: 0.008341254616744093
+Saved model state dict: ./model/transformer_68.pth
+Epoch 69/200: 100%|██████████| 153/153 [02:06<00:00,  1.21it/s, loss (batch)=0.526]
+Epoch 69, average_train_loss: 0.007993463104993163
+Saved model state dict: ./model/transformer_69.pth
+Epoch 70/200: 100%|██████████| 153/153 [02:06<00:00,  1.21it/s, loss (batch)=0.471]
+Epoch 70, average_train_loss: 0.007755481496616297
+Saved model state dict: ./model/transformer_70.pth
+Epoch 71/200: 100%|██████████| 153/153 [02:06<00:00,  1.21it/s, loss (batch)=0.483]
+Epoch 71/200: 100%|██████████| 44/44 [42:07<00:00, 57.45s/it, val_loss (batch)=44.6]
+Epoch 71, average_train_loss: 0.007526219220215552
+Epoch 71, average_train_loss: 0.007526219220215552, average_val_loss: 0.7058720485281783
+Saved model state dict: ./model/transformer_71.pth
+Epoch 72/200: 100%|██████████| 153/153 [02:11<00:00,  1.17it/s, loss (batch)=0.458]
+Epoch 72, average_train_loss: 0.007268954665245741
+Saved model state dict: ./model/transformer_72.pth
+Epoch 73/200: 100%|██████████| 153/153 [02:11<00:00,  1.16it/s, loss (batch)=0.444]
+Epoch 73, average_train_loss: 0.0070346729111396
+Saved model state dict: ./model/transformer_73.pth
+Epoch 74/200: 100%|██████████| 153/153 [02:07<00:00,  1.20it/s, loss (batch)=0.452]
+Epoch 74, average_train_loss: 0.006837136674032122
+Saved model state dict: ./model/transformer_74.pth
+Epoch 75/200: 100%|██████████| 153/153 [02:15<00:00,  1.13it/s, loss (batch)=0.409]
+Epoch 75, average_train_loss: 0.006590717196671732
+Saved model state dict: ./model/transformer_75.pth
+Epoch 76/200: 100%|██████████| 153/153 [02:14<00:00,  1.14it/s, loss (batch)=0.391]
+Epoch 76, average_train_loss: 0.006498479362329253
+Saved model state dict: ./model/transformer_76.pth
+Epoch 77/200: 100%|██████████| 153/153 [02:11<00:00,  1.16it/s, loss (batch)=0.411]
+Epoch 77, average_train_loss: 0.006253357908499288
+Saved model state dict: ./model/transformer_77.pth
+Epoch 78/200: 100%|██████████| 153/153 [02:06<00:00,  1.21it/s, loss (batch)=0.388]
+Epoch 78, average_train_loss: 0.006044593599966096
+Saved model state dict: ./model/transformer_78.pth
+Epoch 79/200: 100%|██████████| 153/153 [02:10<00:00,  1.17it/s, loss (batch)=0.404]
+Epoch 79, average_train_loss: 0.005847025586105711
+Saved model state dict: ./model/transformer_79.pth
+Epoch 80/200: 100%|██████████| 153/153 [02:10<00:00,  1.18it/s, loss (batch)=0.337]
+Epoch 80, average_train_loss: 0.005679345697045704
+Saved model state dict: ./model/transformer_80.pth
+Epoch 81/200: 100%|██████████| 153/153 [02:11<00:00,  1.17it/s, loss (batch)=0.364]
+Epoch 81/200: 100%|██████████| 44/44 [42:05<00:00, 57.40s/it, val_loss (batch)=42.3]
+Epoch 81, average_train_loss: 0.005537653771320402
+Epoch 81, average_train_loss: 0.005537653771320402, average_val_loss: 0.6526863174085892
+Saved model state dict: ./model/transformer_81.pth
+Epoch 82/200: 100%|██████████| 153/153 [02:14<00:00,  1.14it/s, loss (batch)=0.321]
+Epoch 82, average_train_loss: 0.005405490112114557
+Saved model state dict: ./model/transformer_82.pth
+Epoch 83/200: 100%|██████████| 153/153 [02:13<00:00,  1.14it/s, loss (batch)=0.359]
+Epoch 83, average_train_loss: 0.005271379448082681
+Saved model state dict: ./model/transformer_83.pth
+Epoch 84/200: 100%|██████████| 153/153 [02:15<00:00,  1.13it/s, loss (batch)=0.346]
+Epoch 84, average_train_loss: 0.005129734869079348
+Saved model state dict: ./model/transformer_84.pth
+Epoch 85/200: 100%|██████████| 153/153 [02:11<00:00,  1.16it/s, loss (batch)=0.336]
+Epoch 85, average_train_loss: 0.004986156027639538
+Saved model state dict: ./model/transformer_85.pth
+Epoch 86/200: 100%|██████████| 153/153 [02:03<00:00,  1.24it/s, loss (batch)=0.302]
+Epoch 86, average_train_loss: 0.004918778814697617
+Saved model state dict: ./model/transformer_86.pth
+Epoch 87/200: 100%|██████████| 153/153 [02:06<00:00,  1.20it/s, loss (batch)=0.299]
+Epoch 87, average_train_loss: 0.004793186252217829
+Saved model state dict: ./model/transformer_87.pth
+Epoch 88/200: 100%|██████████| 153/153 [02:05<00:00,  1.22it/s, loss (batch)=0.295]
+Epoch 88, average_train_loss: 0.004651849635624103
+Saved model state dict: ./model/transformer_88.pth
+Epoch 89/200: 100%|██████████| 153/153 [01:51<00:00,  1.37it/s, loss (batch)=0.284]
+Epoch 89, average_train_loss: 0.004546563411560932
+Saved model state dict: ./model/transformer_89.pth
+Epoch 90/200: 100%|██████████| 153/153 [01:57<00:00,  1.30it/s, loss (batch)=0.272]
+Epoch 90, average_train_loss: 0.004433799428011594
+Saved model state dict: ./model/transformer_90.pth
+Epoch 91/200: 100%|██████████| 153/153 [02:05<00:00,  1.22it/s, loss (batch)=0.286]
+Epoch 91/200: 100%|██████████| 44/44 [40:29<00:00, 55.22s/it, val_loss (batch)=82.2]
+Epoch 91, average_train_loss: 0.004397735217514366
+Epoch 91, average_train_loss: 0.004397735217514366, average_val_loss: 1.2455732614766055
+Saved model state dict: ./model/transformer_91.pth
+Epoch 92/200: 100%|██████████| 153/153 [02:06<00:00,  1.21it/s, loss (batch)=0.29] 
+Epoch 92, average_train_loss: 0.004264896706793282
+Saved model state dict: ./model/transformer_92.pth
+Epoch 93/200: 100%|██████████| 153/153 [01:58<00:00,  1.30it/s, loss (batch)=0.247]
+Epoch 93, average_train_loss: 0.004171511330690843
+Saved model state dict: ./model/transformer_93.pth
+Epoch 94/200: 100%|██████████| 153/153 [01:53<00:00,  1.35it/s, loss (batch)=0.265]
+Epoch 94, average_train_loss: 0.004080856201985341
+Saved model state dict: ./model/transformer_94.pth
+Epoch 95/200: 100%|██████████| 153/153 [01:53<00:00,  1.35it/s, loss (batch)=0.228]
+Epoch 95, average_train_loss: 0.004021954431622541
+Saved model state dict: ./model/transformer_95.pth
+Epoch 96/200: 100%|██████████| 153/153 [02:02<00:00,  1.25it/s, loss (batch)=0.249]
+Epoch 96, average_train_loss: 0.003981476102902984
+Saved model state dict: ./model/transformer_96.pth
+Epoch 97/200: 100%|██████████| 153/153 [01:56<00:00,  1.31it/s, loss (batch)=0.261]
+Epoch 97, average_train_loss: 0.0038851119372976567
+Saved model state dict: ./model/transformer_97.pth
+Epoch 98/200: 100%|██████████| 153/153 [02:07<00:00,  1.20it/s, loss (batch)=0.246]
+Epoch 98, average_train_loss: 0.0038251910957014276
+Saved model state dict: ./model/transformer_98.pth
+Epoch 99/200: 100%|██████████| 153/153 [01:48<00:00,  1.41it/s, loss (batch)=0.226]
+Epoch 99, average_train_loss: 0.003735902751287962
+Saved model state dict: ./model/transformer_99.pth
+Epoch 100/200: 100%|██████████| 153/153 [01:59<00:00,  1.28it/s, loss (batch)=0.232]
+Epoch 100, average_train_loss: 0.0037658609318082384
+Saved model state dict: ./model/transformer_100.pth
+Epoch 101/200: 100%|██████████| 153/153 [02:04<00:00,  1.23it/s, loss (batch)=0.209]
+Epoch 101/200: 100%|██████████| 44/44 [40:51<00:00, 55.71s/it, val_loss (batch)=71.1]
+Epoch 101, average_train_loss: 0.0035380000653606703
+Epoch 101, average_train_loss: 0.0035380000653606703, average_val_loss: 1.1038538054389289
+Saved model state dict: ./model/transformer_101.pth
+Epoch 102/200: 100%|██████████| 153/153 [01:52<00:00,  1.36it/s, loss (batch)=0.228]
+Epoch 102, average_train_loss: 0.003498273068392841
+Saved model state dict: ./model/transformer_102.pth
+Epoch 103/200: 100%|██████████| 153/153 [01:34<00:00,  1.63it/s, loss (batch)=0.236]
+Epoch 103, average_train_loss: 0.0034720539869968177
+Saved model state dict: ./model/transformer_103.pth
+Epoch 104/200: 100%|██████████| 153/153 [01:45<00:00,  1.45it/s, loss (batch)=0.212]
+Epoch 104, average_train_loss: 0.0034438501839720147
+Saved model state dict: ./model/transformer_104.pth
+Epoch 105/200: 100%|██████████| 153/153 [01:45<00:00,  1.46it/s, loss (batch)=0.202]
+Epoch 105, average_train_loss: 0.003418336970627448
+Saved model state dict: ./model/transformer_105.pth
+Epoch 106/200: 100%|██████████| 153/153 [01:47<00:00,  1.42it/s, loss (batch)=0.232]
+Epoch 106, average_train_loss: 0.003394392136110751
+Saved model state dict: ./model/transformer_106.pth
+Epoch 107/200: 100%|██████████| 153/153 [01:44<00:00,  1.47it/s, loss (batch)=0.193]
+Epoch 107, average_train_loss: 0.0033719720052875707
+Saved model state dict: ./model/transformer_107.pth
+Epoch 108/200: 100%|██████████| 153/153 [01:43<00:00,  1.48it/s, loss (batch)=0.196]
+Epoch 108, average_train_loss: 0.0033399857235593476
+Saved model state dict: ./model/transformer_108.pth
+Epoch 109/200: 100%|██████████| 153/153 [01:37<00:00,  1.57it/s, loss (batch)=0.196]
+Epoch 109, average_train_loss: 0.003310052992778131
+Saved model state dict: ./model/transformer_109.pth
+Epoch 110/200: 100%|██████████| 153/153 [01:43<00:00,  1.48it/s, loss (batch)=0.221]
+Epoch 110, average_train_loss: 0.0032904645487667654
+Saved model state dict: ./model/transformer_110.pth
+Epoch 111/200: 100%|██████████| 153/153 [01:40<00:00,  1.53it/s, loss (batch)=0.21] 
+Epoch 111/200: 100%|██████████| 44/44 [41:52<00:00, 57.09s/it, val_loss (batch)=73.9]
+Epoch 111, average_train_loss: 0.003271385902410733
+Epoch 111, average_train_loss: 0.003271385902410733, average_val_loss: 1.1581969303547426
+Saved model state dict: ./model/transformer_111.pth
+Epoch 112/200: 100%|██████████| 153/153 [01:54<00:00,  1.33it/s, loss (batch)=0.209]
+Epoch 112, average_train_loss: 0.003231408040029434
+Saved model state dict: ./model/transformer_112.pth
+Epoch 113/200: 100%|██████████| 153/153 [01:44<00:00,  1.46it/s, loss (batch)=0.225]
+Epoch 113, average_train_loss: 0.003215710567850336
+Saved model state dict: ./model/transformer_113.pth
+Epoch 114/200: 100%|██████████| 153/153 [01:53<00:00,  1.35it/s, loss (batch)=0.201]
+Epoch 114, average_train_loss: 0.0031833327440576385
+Saved model state dict: ./model/transformer_114.pth
+Epoch 115/200: 100%|██████████| 153/153 [01:48<00:00,  1.41it/s, loss (batch)=0.194]
+Epoch 115, average_train_loss: 0.003155539336166503
+Saved model state dict: ./model/transformer_115.pth
+Epoch 116/200: 100%|██████████| 153/153 [01:57<00:00,  1.31it/s, loss (batch)=0.204]
+Epoch 116, average_train_loss: 0.003135040032206692
+Saved model state dict: ./model/transformer_116.pth
+Epoch 117/200: 100%|██████████| 153/153 [01:49<00:00,  1.40it/s, loss (batch)=0.201]
+Epoch 117, average_train_loss: 0.0031148934748845285
+Saved model state dict: ./model/transformer_117.pth
+Epoch 118/200: 100%|██████████| 153/153 [01:49<00:00,  1.40it/s, loss (batch)=0.222]
+Epoch 118, average_train_loss: 0.0030921741386167284
+Saved model state dict: ./model/transformer_118.pth
+Epoch 119/200: 100%|██████████| 153/153 [01:40<00:00,  1.52it/s, loss (batch)=0.181]
+Epoch 119, average_train_loss: 0.0030768383665692282
+Saved model state dict: ./model/transformer_119.pth
+Epoch 120/200: 100%|██████████| 153/153 [01:41<00:00,  1.51it/s, loss (batch)=0.188]
+Epoch 120, average_train_loss: 0.0030437495253615287
+Saved model state dict: ./model/transformer_120.pth
+Epoch 121/200: 100%|██████████| 153/153 [01:37<00:00,  1.57it/s, loss (batch)=0.196]
+Epoch 121/200: 100%|██████████| 44/44 [41:15<00:00, 56.27s/it, val_loss (batch)=72.3]
+Epoch 121, average_train_loss: 0.0030242379531210985
+Epoch 121, average_train_loss: 0.0030242379531210985, average_val_loss: 1.1414824403395993
+Saved model state dict: ./model/transformer_121.pth
+Epoch 122/200: 100%|██████████| 153/153 [01:31<00:00,  1.67it/s, loss (batch)=0.218]
+Epoch 122, average_train_loss: 0.00299902303875035
+Saved model state dict: ./model/transformer_122.pth
+Epoch 123/200: 100%|██████████| 153/153 [01:27<00:00,  1.76it/s, loss (batch)=0.199]
+Epoch 123, average_train_loss: 0.002978594346580763
+Saved model state dict: ./model/transformer_123.pth
+Epoch 124/200: 100%|██████████| 153/153 [01:03<00:00,  2.40it/s, loss (batch)=0.185]
+Epoch 124, average_train_loss: 0.0029556737905532936
+Saved model state dict: ./model/transformer_124.pth
+Epoch 125/200: 100%|██████████| 153/153 [00:15<00:00,  9.77it/s, loss (batch)=0.195]
+Epoch 125, average_train_loss: 0.0029335207959136013
+Saved model state dict: ./model/transformer_125.pth
+Epoch 126/200: 100%|██████████| 153/153 [00:15<00:00,  9.71it/s, loss (batch)=0.185]
+Epoch 126, average_train_loss: 0.002926275251394595
+Saved model state dict: ./model/transformer_126.pth
+Epoch 127/200: 100%|██████████| 153/153 [00:15<00:00,  9.59it/s, loss (batch)=0.181]
+Epoch 127, average_train_loss: 0.0029002293409617227
+Saved model state dict: ./model/transformer_127.pth
+Epoch 128/200: 100%|██████████| 153/153 [00:15<00:00,  9.88it/s, loss (batch)=0.198]
+Epoch 128, average_train_loss: 0.002891482592433426
+Saved model state dict: ./model/transformer_128.pth
+Epoch 129/200: 100%|██████████| 153/153 [00:15<00:00,  9.78it/s, loss (batch)=0.191]
+Epoch 129, average_train_loss: 0.0028683702408956635
+Saved model state dict: ./model/transformer_129.pth
+Epoch 130/200: 100%|██████████| 153/153 [00:15<00:00,  9.67it/s, loss (batch)=0.158]
+Epoch 130, average_train_loss: 0.0028478609032943415
+Saved model state dict: ./model/transformer_130.pth
+Epoch 131/200: 100%|██████████| 153/153 [00:15<00:00,  9.91it/s, loss (batch)=0.182]
+Epoch 131/200: 100%|██████████| 44/44 [05:07<00:00,  6.99s/it, val_loss (batch)=81.2]
+Epoch 131, average_train_loss: 0.002824243228563001
+Epoch 131, average_train_loss: 0.002824243228563001, average_val_loss: 1.2575996607764521
+Saved model state dict: ./model/transformer_131.pth
