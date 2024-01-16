@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="27421506-03a2-4417-86d7-01fa0baa54ce" name="cu13">
+        <fileTransfer rootFolder="/data1/lfliu1" accessType="SFTP" host="192.168.134.9" port="22" sshConfigId="622e8f21-d487-4d8c-b140-00b248f6df24" sshConfig="lfliu@192.168.134.9:22 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
